@@ -40,3 +40,5 @@ const El = styled.el`
 - Go to the component, import the Wrapper into the application and done.
 
 ## React Router 6 and Error Pages
+
+- Next step is to work on First Component, Logo & Images, React Router and Error Page
